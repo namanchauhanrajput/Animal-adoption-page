@@ -1,2 +1,1 @@
-# Animal-adoption-page Using Boots
-trap
+# Animal-adoption-page Using Bootstrap
